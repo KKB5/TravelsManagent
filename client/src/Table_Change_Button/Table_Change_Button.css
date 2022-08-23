@@ -1,0 +1,12 @@
+.table_Change_button{
+    padding-left:3%;
+    padding-right:3%;
+    padding-top: 3%;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+}
+.row{
+    margin-right: 0px;
+    margin-left: 0px;
+}

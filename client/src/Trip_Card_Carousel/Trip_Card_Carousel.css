@@ -1,0 +1,29 @@
+
+.Trip_Card_Bg .card{
+    background-color:  hsla(46, 91%, 41%, 0.504);
+    height: 100%;
+}
+
+.Trip_Card_Bg .col{
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+.Trip_Card_Bg .row{
+   margin: 0px;
+
+}
+.Trip_Card_Bg .card{
+    box-shadow: -1px 3px 19px 0px rgba(0, 0, 0, 0.5);
+
+ 
+ }
+ .Trip_Card_Bg .card:hover{
+    box-shadow: -1px 3px 19px 0px rgb(255, 115, 0);
+    transform:scale(1.1, 1.1);
+
+
+ }
+.card-img-top{
+    height: 16rem;
+}
+

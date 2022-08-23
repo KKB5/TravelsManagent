@@ -1,0 +1,44 @@
+
+Table tbody{
+    
+    background-color: #FFFFFF;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-color: hsla(46, 91%, 41%, 0.504);
+    border-style: solid;
+    color: #000000; 
+  }
+  
+  Table td {
+    border-width: 2px;
+    border-color: hsla(46, 91%, 41%, 0.504);
+    border-style: solid;
+    padding: 5px;
+  }
+
+    Table th {
+    border-width: 2px;
+    border-color: hsla(46, 91%, 41%, 0.504);
+    border-style: solid;
+    padding: 5px;
+  }
+
+  Table thead {
+    background-color: hsla(46, 91%, 41%, 0.408);
+  }
+
+.table-responsive
+{
+  padding:1%;
+}
+
+.table_heading{
+  background-color: #FFFFFF;
+  text-align: center;
+  border: none;
+  font-size: larger;
+}
+
+.update_btn_container{
+  justify-content: end;
+}

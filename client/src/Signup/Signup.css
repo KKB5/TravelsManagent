@@ -1,0 +1,69 @@
+
+.vaca_img{
+    background-image:url("vaca.jpg");
+    height: 100vh;
+    width: 100%;
+    background-size:cover;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* filter:blur(8px); */
+    
+    }
+    
+    .Signup_card{
+        background-color:rgba(0, 0, 0, 0.234);
+        border: none;
+        border-radius: 20px;
+        padding: 20px;
+        width:100%;
+        max-width:max-content;
+        color:rgb(250, 238, 217);
+        
+    }
+    
+    /* .Login_card:hover{
+        background-color:rgba(255, 255, 255, 0.1);
+        
+    } */
+    
+    .Signup_card .input_box{
+        width: 100%;
+        padding: 10px;
+        border-radius: 8px;
+        border: 0px;
+        background-color:rgba(243, 234, 219, 0.7);
+        margin-bottom: 20px;
+        
+    }
+    
+    #Remember_me_card{
+        text-decoration: underline;
+        font-weight: bolder;
+        font-size: smaller;
+        
+    }
+    #Login_already{
+        text-decoration: underline;
+        font-weight: bolder;
+        font-size: smaller;
+    }
+    #Forgot_password{
+        text-decoration: underline;
+        font-weight: bolder;
+        font-size: smaller;
+    }
+    
+    #Login_already span{
+       color: rgb(250, 238, 217);
+       text-decoration: underline;
+    
+    }
+    
+    #Forgot_password span{
+        color: rgb(250, 238, 217);
+        text-decoration: underline;
+     
+     }
+    
